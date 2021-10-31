@@ -1,0 +1,2 @@
+# Covid-19-RM-
+The Covid 19 RM dataset contains news related to covid19 in Morocco, this is the result of Process Engineering, Computer Science and Mathematics Laboratory (LIPIM) within ENSA Khouribga. Covid 19 RM is made up of fake and real information extracted from verified Facebook pages and Twitter accounts. The data are Moroccan publications in French or English, the subject of which is related to covid19. Covid 19 RM Is made up of 901 manually labeled news items, of which 500 are considered real and 401 are fake.
